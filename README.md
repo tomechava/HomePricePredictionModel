@@ -10,6 +10,8 @@ El objetivo de este proyecto es desarrollar una herramienta que, a partir de cie
 
 El dataset para el entrenamiento de este modelo fue obtenido de: [Kaggle Datasets](https://www.kaggle.com/datasets/aravinii/house-price-prediction-treated-dataset)
 
+El procesio de entrenamiento y creacion del modelo se encuentra documentado en el archivo 'Model_Training.ipynb'.
+
 El modelo fue entrenado con un dataset de propiedades, que incluye 14 variables clave, tales como:
 
 - `bedrooms` (Número de dormitorios)
