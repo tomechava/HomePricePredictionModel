@@ -8,7 +8,7 @@ El objetivo de este proyecto es desarrollar una herramienta que, a partir de cie
 
 ## Datos de Entrenamiento
 
-El dataset para el entrenamiento de este modelo fue obtenido de: [Kaggle Datasets]([https://link-url-here.org](https://www.kaggle.com/datasets/aravinii/house-price-prediction-treated-dataset)
+El dataset para el entrenamiento de este modelo fue obtenido de: [Kaggle Datasets](https://www.kaggle.com/datasets/aravinii/house-price-prediction-treated-dataset)
 
 El modelo fue entrenado con un dataset de propiedades, que incluye 14 variables clave, tales como:
 
